@@ -3,7 +3,6 @@ message: "If you use StreetOps in research or practice, please cite this softwar
 title: "StreetOps: An Open Computational Framework for Integrating Street Networks and Urban Operations into Adaptive Urban Design"
 type: software
 version: 0.1.0
-date-released: 2026-09-07
 authors:
   - family-names: Riggs
     given-names: William
