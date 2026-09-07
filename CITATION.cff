@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use StreetOps in research or practice, please cite this software and the foundational paper when available."
+message: "If you use StreetOps in research or practice, please cite this software and the foundational paper."
 title: "StreetOps: An Open Computational Framework for Integrating Street Networks and Urban Operations into Adaptive Urban Design"
 type: software
 version: 0.1.0
@@ -25,3 +25,13 @@ abstract: >-
   standards. Its central technical abstraction, the OpsGraph, represents infrastructure,
   activities, temporal conditions, operating rules, public priorities, conflicts, and candidate
   interventions within a common time-aware and rule-aware model.
+preferred-citation:
+  type: article
+  title: "StreetOps: An Open Computational Framework for Integrating Street Networks and Urban Operations into Adaptive Urban Design"
+  authors:
+    - family-names: Riggs
+      given-names: William
+      orcid: "https://orcid.org/0000-0001-8562-5998"
+  year: 2026
+  url: "https://osf.io/preprints/socarxiv/g3z7j_v1"
+  notes: "SocArXiv preprint; DOI pending."
