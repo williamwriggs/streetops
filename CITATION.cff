@@ -33,5 +33,6 @@ preferred-citation:
       given-names: William
       orcid: "https://orcid.org/0000-0001-8562-5998"
   year: 2026
-  url: "https://osf.io/preprints/socarxiv/g3z7j_v1"
-  notes: "SocArXiv preprint; DOI pending."
+  doi: "10.31235/osf.io/g3z7j_v1"
+  url: "https://doi.org/10.31235/osf.io/g3z7j_v1"
+  notes: "SocArXiv preprint."
