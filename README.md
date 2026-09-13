@@ -69,11 +69,9 @@ The API above is illustrative and specifies the intended user-facing contract. I
 
 William Riggs, University of San Francisco.
 
-SocArXiv preprint: https://osf.io/preprints/socarxiv/g3z7j_v1
+SocArXiv preprint: https://doi.org/10.31235/osf.io/g3z7j_v1
 
 The paper defines the research problem, the StreetOps workflow, the OpsGraph abstraction, design-translation logic, visualization system, governance principles, and an initial curb-operations proof of concept.
-
-The preprint DOI will be added when assigned.
 
 ## Intended applications
 
@@ -105,7 +103,7 @@ See [`ROADMAP.md`](ROADMAP.md) for staged implementation and [`docs/architecture
 
 ## Citation
 
-Please cite the software using the metadata in [`CITATION.cff`](CITATION.cff). The preferred citation currently points to the SocArXiv preprint; its DOI will be added when assigned.
+Please cite the software using the metadata in [`CITATION.cff`](CITATION.cff). The preferred citation points to the SocArXiv preprint: https://doi.org/10.31235/osf.io/g3z7j_v1
 
 ## License
 
